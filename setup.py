@@ -12,6 +12,7 @@ setuptools.setup(
     description="A simple example package",  # Short description
     long_description=long_description, # Use README.md as long description
     long_description_content_type="text/markdown", # Format of long description
+    url="https://github.com/zyh3699/quick-pypi-starter",  # Replace with your package's URL (e.g., GitHub repo)
     packages=setuptools.find_packages(), # Automatically find package directories (will find zephyrzhong/)
     classifiers=[ # Package classifiers
         "Programming Language :: Python :: 3",
