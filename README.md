@@ -1,7 +1,5 @@
 # 如何创建并发布你自己的 Python 包到 PyPI (使用此模板)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## 简介
 
 这个仓库是一个模板和指南，旨在帮助你快速创建、构建并将你自己的 Python 包发布到 PyPI (Python Package Index)。它提供了一个标准的项目结构和一个详细的分步教程。
